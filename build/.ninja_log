@@ -1,0 +1,9 @@
+# ninja log v5
+31	1515	6781905220395252	CMakeFiles/Wallpaper_Sync.dir/main.cpp.obj	bbf1c6ce1d034d59
+31	2379	6780897309298331	CMakeFiles/Wallpaper_Sync.dir/src/copy_dir.cpp.obj	1d78f8b94473b403
+9	548	6781911116539267	build.ninja	be7f95e3744d030d
+569	770	6781910313787189	Wallpaper_Sync.exe	d1f586cf5213232
+36	1590	6780923354032668	src/CMakeFiles/Wallpaper_Sync.dir/main.cpp.obj	b5add1e11a66357a
+1591	1834	6780923356453138	src/Wallpaper_Sync.exe	bf496c89e23db533
+90	597	6780923344102756	src/CMakeFiles/Wallpaper_Sync.dir/yg/Directory.cpp.obj	decf103bcae4d8d7
+34	567	6781910311793283	CMakeFiles/Wallpaper_Sync.dir/src/yg/Directory.cpp.obj	17e073af97b5cf0e
